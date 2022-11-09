@@ -82,7 +82,7 @@
 
             <Button
                 android:id="@+id/insertButton"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:backgroundTint="#5579C6"
                 android:onClick="onClickAddDetails"
@@ -97,7 +97,7 @@
 
             <Button
                 android:id="@+id/loadButton"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:backgroundTint="#5579C6"
                 android:onClick="onClickShowDetails"
